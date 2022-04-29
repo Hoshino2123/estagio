@@ -15,3 +15,4 @@ https://infrasecurity.org/which-of-the-following-file-systems-provides-file-leve
 m%20is%20a%20self-replicating%20malware%20program,failures%20on%20the%20target%20computer%20to%20access%20it.
 https://www.learnpick.in/questions/details/8358/name-the-largest-wide-area-network#:~:text=Answer%3A%20The%20largest%20WAN%20in%20existence%20is,the%20Internet.%20Answered%20by%3A%20Prantik%20S.%20from%20Kolkata
 https://social.technet.microsoft.com/Forums/en-US/af1dd202-b5f1-41ad-89ea-43039e76be9a/intune-working-with-operating-systems
+https://quizlet.com/240854653/98-368-unit-5-understanding-enterprise-mobility-flash-cards/#_=_
